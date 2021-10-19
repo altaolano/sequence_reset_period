@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo noupdate="0">
+    <data>
+          <function model="ir.sequence" name="action_reset"/>
+    </data>
+</odoo>
